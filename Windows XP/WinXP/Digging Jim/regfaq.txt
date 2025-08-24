@@ -1,0 +1,54 @@
+Digging Jim Registration FAQ
+----------------------------
+
+Q : Who is Kagi and how does this company relate to Persei Entertainment?
+A : Kagi is a well-established business that provides payment-processing services. All 
+    registrations of Digging Jim goes through them.
+
+Q : I want to pay with a check. Who should it be made payable to?
+A : This is very important: Checks and money orders should be made payable to "Kagi" as they
+    handle all the payment processing for Digging Jim. Checks have to be in USD and drawn from
+    a US bank.
+
+Q : What am I paying for?
+A : A license of Digging Jim for one computer. The non-registered version should not be used 
+    for anything else than evaluation purposes. Registering also unlocks all the 100 challenging 
+    caves, Load Caves in the game and the Test Level function in the editor. Futhermore the
+    registration program will not execute when you quit the game anymore. Your license is valid
+    for all future 1.XX versions.
+
+Q : How is the registration code provided?
+A : If you register via the internet or provide a email address in your postal registration
+    you'll get the code per email as soon as your payment is processed. If you only provide
+    a postal address you'll get it on a postcard(costs 3 USD).
+
+Q : What is the URL of the WWW internet registration page?
+A : http://order.kagi.com/?Q6U
+
+Q : My email-app dosn't support MAPI. Can I just write off the registration form and email it
+    to Kagi?
+A : No. The registration form is a binary file which includes barcodes and in some instances
+    encrypted creditcard information. If you can't get MAPI to work you'll have to print the
+    form and send or fax it to Kagi(or even better: use WWW registration).
+
+Q : The exchange rate for my currency is bloated in the register program. A mistake?
+A : Probably not. If you choose not to pay in USD there is extra cost for Kagi which is
+    reflected on the exchange rate.
+
+Q : What is the point of the stripes at the bottom on my printed registration form?
+A : They are bar codes used to automate the payment processing and thus very important. All your
+    information is encoded here including creditcard numbers(if creditcards are used in the 
+    payment that is) which are also encrypted for extra safety. 
+
+Q : How secure is the internet registration?
+A : Almost 100% if you select Secure Server on the webpage that emerges(the reason for not
+    defaulting to it is that not all browsers supports SSL). It is a well known fact that 
+    the risk associated with creditcard processing over the internet is hugely exaggerated
+    by the media! Persei Entertainment and/or Kagi can, however, not take any responserbility 
+    for the security of your information while it's transfered on the network.
+
+Q : My question is not answered in this FAQ! What to do?
+A : All questions about the payment should be directed to Kagi. Their website has extensive
+    information about their service(http://www.kagi.com). You can also email them at 
+    sales@kagi.com. More general questions about the game should be directed to
+    peter@persei.dk ...
